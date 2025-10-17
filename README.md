@@ -1,13 +1,11 @@
 🚀 Funcionalidades
 
-- Cadastro de alunos com nome, idade, matrícula e curso.
-- Validação básica dos campos do formulário.
-- Exibição da lista de alunos cadastrados.
-- Desenvolvimento de interfaces gráficas com HTML, CSS e JavaScript.
+- Cadastro de alunos.
+- Desenvolvimento de interfaces gráficas com HTML, CSS e Java.
 
 🛠️ Tecnologias utilizadas
 
 - HTML5
 - CSS3
-- JavaScript
+- Java
 - NetBeans IDE
